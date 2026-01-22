@@ -150,7 +150,10 @@ Kaggle Competition:
 ## ✍️ Author
 
 **Rahul Shetye**
-Aspiring Data Scientist | Machine Learning Enthusiast
+
+
+
+Aspiring Machine Learning Enthusiast
 
 ---
 
